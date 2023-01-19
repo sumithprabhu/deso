@@ -23,7 +23,7 @@ class App extends Component {
         { this.state.loading
           ? <div id="loader" className="text-center mt-5"><p>Loading...</p></div>
           : <Main
-            // Code...
+            
             />
           }
         }
